@@ -1,5 +1,5 @@
 ---
-title: "576 Final Project Script"
+title: "Final Project Script"
 output: html_document
 authors: Alexander Baker, Olivia Ward
 date: "2022-11-18"
